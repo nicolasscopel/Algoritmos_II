@@ -1,0 +1,5 @@
+Nicolas;9;9;9;
+Felipe;2;2;2;
+Hugo;5.5;5.5;5.5;
+Valentina Zenaide;9;8;7;
+Vinicius;5;5;9;
